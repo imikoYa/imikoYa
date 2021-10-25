@@ -2,9 +2,8 @@
 
 ### 来看我的Github啦？（估计瞎点点出来的吧）
 
-aha
-My English is very beautiful~
-You can find some simple but interesting tools in here.
-But nothing in here now.
-You can talk to me about everything on QQ (2974436988).
-<!-我绝对不会告诉你我没钱续费服务器了->
+- aha
+- My English is very beautiful~
+- You can find some simple but interesting tools in here.
+- But nothing in here now.
+- You can talk to me about everything on QQ (2974436988).
