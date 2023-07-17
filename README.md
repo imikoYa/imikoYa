@@ -3,11 +3,6 @@
 ### Hello~
 ## Welcome to my Github Home Page.
 
-- aha
-- You can't find this message.<!-- My English is very beautiful~-->
-- You can find some simple but interesting tools in here.
-- But nothing in here now.
-- You can talk to me about everything on QQ (xxxxxxx).
-
-
-- <!--我绝对不会告诉你我没钱续费服务器了-->
+- 总是在学习Java的路上 也是渗透爱好者 可能偶尔打打ctf放松一下
+- 不经常用Github 因为我的项目一般不具有独特性所以并不需要开源
+- 你可以在任何地方找到我 如果你真的找到我的话
